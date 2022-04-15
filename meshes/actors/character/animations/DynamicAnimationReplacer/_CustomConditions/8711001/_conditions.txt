@@ -1,0 +1,2 @@
+IsLevelLessThan(5) AND
+Random(1)

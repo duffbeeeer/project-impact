@@ -1,0 +1,10 @@
+		<hkobject name="#neymar$994" class="hkbEventDrivenModifier" signature="0x7ed3f44e">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">1</hkparam>
+			<hkparam name="name">push_edm</hkparam>
+			<hkparam name="enable">true</hkparam>
+			<hkparam name="modifier">#neymar$993</hkparam>
+			<hkparam name="activateEventId">$eventID[pushstart]$</hkparam>
+			<hkparam name="deactivateEventId">$eventID[pushend]$</hkparam>
+			<hkparam name="activeByDefault">false</hkparam>
+		</hkobject>

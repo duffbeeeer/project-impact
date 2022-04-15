@@ -1,0 +1,10 @@
+		<hkobject name="#0718" class="hkbBehaviorReferenceGenerator" signature="0xfcb5423">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="name">StaggerBFR</hkparam>
+<!-- MOD_CODE ~neymar~ OPEN -->
+			<hkparam name="behaviorName">behaviors\staggerbehavior.hkx</hkparam>
+<!-- ORIGINAL -->
+			<hkparam name="behaviorName">Behaviors\StaggerBehavior.hkx</hkparam>
+<!-- CLOSE -->
+		</hkobject>

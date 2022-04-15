@@ -1,0 +1,12 @@
+		<hkobject name="#neymar$575" class="hkbStateMachineStateInfo" signature="0xed7f9d0">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="listeners" numelements="0"></hkparam>
+			<hkparam name="enterNotifyEvents">#neymar$622</hkparam>
+			<hkparam name="exitNotifyEvents">null</hkparam>
+			<hkparam name="transitions">#neymar$596</hkparam>
+			<hkparam name="generator">#neymar$576</hkparam>
+			<hkparam name="name">1H_1st_staggerset2</hkparam>
+			<hkparam name="stateId">521191</hkparam>
+			<hkparam name="probability">1.000000</hkparam>
+			<hkparam name="enable">true</hkparam>
+		</hkobject>

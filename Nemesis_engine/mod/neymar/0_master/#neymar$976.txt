@@ -1,0 +1,10 @@
+		<hkobject name="#neymar$976" class="hkbEventDrivenModifier" signature="0x7ed3f44e">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">1</hkparam>
+			<hkparam name="name">revtrip3_edm</hkparam>
+			<hkparam name="enable">true</hkparam>
+			<hkparam name="modifier">#neymar$975</hkparam>
+			<hkparam name="activateEventId">$eventID[flinchstop]$</hkparam>
+			<hkparam name="deactivateEventId">$eventID[tripstart]$</hkparam>
+			<hkparam name="activeByDefault">false</hkparam>
+		</hkobject>
