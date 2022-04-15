@@ -1,0 +1,10 @@
+		<hkobject name="#neymar$1030" class="hkbEventDrivenModifier" signature="0x7ed3f44e">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">1</hkparam>
+			<hkparam name="name">Stun_edm</hkparam>
+			<hkparam name="enable">true</hkparam>
+			<hkparam name="modifier">#neymar$1029</hkparam>
+			<hkparam name="activateEventId">$eventID[stunstart]$</hkparam>
+			<hkparam name="deactivateEventId">$eventID[stunend]$</hkparam>
+			<hkparam name="activeByDefault">false</hkparam>
+		</hkobject>

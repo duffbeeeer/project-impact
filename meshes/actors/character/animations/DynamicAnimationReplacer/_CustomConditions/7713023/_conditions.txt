@@ -1,0 +1,3 @@
+NOT IsLevelLessThan(45) AND
+NOT IsActorValuePercentageLessThan(24, 0.35) AND
+Random(0.15)

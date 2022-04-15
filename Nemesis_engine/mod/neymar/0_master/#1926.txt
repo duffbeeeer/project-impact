@@ -1,0 +1,10 @@
+		<hkobject name="#1926" class="hkbBehaviorReferenceGenerator" signature="0xfcb5423">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="name">Weap_BehaviorBFR</hkparam>
+<!-- MOD_CODE ~neymar~ OPEN -->
+			<hkparam name="behaviorName">behaviors\1hm_behavior.hkx</hkparam>
+<!-- ORIGINAL -->
+			<hkparam name="behaviorName">Behaviors\1HM_Behavior.hkx</hkparam>
+<!-- CLOSE -->
+		</hkobject>

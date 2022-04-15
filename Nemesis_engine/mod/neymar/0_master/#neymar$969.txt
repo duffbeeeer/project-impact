@@ -1,0 +1,3 @@
+		<hkobject name="#neymar$969" class="hkbStateMachineTransitionInfoArray" signature="0xe397b11e">
+			<hkparam name="transitions" numelements="0"></hkparam>
+		</hkobject>
