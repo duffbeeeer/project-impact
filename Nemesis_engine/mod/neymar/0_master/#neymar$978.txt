@@ -1,7 +1,0 @@
-		<hkobject name="#neymar$978" class="hkbEvaluateExpressionModifier" signature="0xf900f6be">
-			<hkparam name="variableBindingSet">null</hkparam>
-			<hkparam name="userData">2</hkparam>
-			<hkparam name="name">revtrip2_eem</hkparam>
-			<hkparam name="enable">true</hkparam>
-			<hkparam name="expressions">#neymar$977</hkparam>
-		</hkobject>
